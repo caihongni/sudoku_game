@@ -26,6 +26,7 @@
    git clone https://github.com/caihongni/sudoku_game.git
 
 2. **運行游戲**
+
    cd gui_version
    
    python main.py
